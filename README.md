@@ -33,3 +33,19 @@ Just go the the api folder and run `npm i` You can now just `run npm run dev` an
 __NB:__ This project has only a pedagogic goal, it is not meant for production as this would cause a lot of copyright problems
 
 ## Gallery
+
+### Sitemap
+
+![Map](./imgForReadme/Map.jpg)
+
+### Global Navigation
+![Global](./imgForReadme/Global.gif)
+
+### Library 
+![Library](./imgForReadme/Library.gif)
+
+### Landing Page
+![Landing](./imgForReadme/Landing.gif)
+
+### Responsive Management
+![Responsive](./imgForReadme/Responsive.jpg)
