@@ -3,7 +3,7 @@
 
 This project was done with [Phillipine Sentilhes](https://github.com/pommedepain), [Benjamin Tollie](https://github.com/BenjaminTle) et [Camille Julien](https://github.com/cajulien42)
 
-Camille was in charge of the scrapping process Philippine was in charge on the API and the custom player,Benjamin was in charge of the streaming part. I was in charge of the UI/UX (Wireframe, prototype and code in React). 
+Camille was in charge of the scrapping process, Philippine was in charge on the API and the custom player, Benjamin was in charge of the streaming part. I was in charge of the UI/UX (Wireframe, prototype and code in React). 
 
 ## SUMMARY
 - What is Hypertube ?
